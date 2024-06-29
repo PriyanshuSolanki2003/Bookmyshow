@@ -1,0 +1,100 @@
+.bod{
+    margin-left:150px;
+    
+    margin-right: 150px;
+    margin-top: 0px;
+    
+}
+
+body{
+    margin: 0px;
+    background-color: #f5f5f5;
+}
+
+#navpic{
+width: 50px;
+height: 30px;
+}
+
+#search{
+    width: 200px;
+}
+.heading{
+    color: rgb(65, 64, 64);
+    
+}
+.movie{
+    margin-top:50px ;
+    margin-left:150px;    
+    margin-right: 150px;
+  
+}
+.premiere{
+    margin-top:50px ;
+    background: #2b3149;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+.pri {
+    color: #fff;
+    margin-left:150px;    
+    margin-right: 150px;
+}
+    
+
+.card{
+    border: none;
+}
+.footer{
+    background-color: #333338;
+    margin-top: 40px;
+}
+.foot{
+    margin-left:150px;    
+    margin-right: 150px;
+    padding: 50px;
+    color: #fff;
+}
+#boo{
+   margin-left: 700px;
+}
+.last img{
+ width: 40px;
+ height: 40px;
+}
+.last{
+    margin-left: 700px;
+}
+#btn{
+    margin: 5px;
+}
+#bttn{
+    margin: 5px;
+   
+    border-radius: 50px;
+}
+.sec{
+    margin: 10px;
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+#mo{
+    padding: 20px;
+   font-size: medium; 
+   color: red;
+   margin-left: 320px;
+   text-decoration: none;
+}
+.mov{
+    margin: 0;
+    padding: 0;
+}
+.exclusive{
+    margin-top:50px ;
+    background: #2b3149; 
+    padding: 20px; 
+}
+
+
+
